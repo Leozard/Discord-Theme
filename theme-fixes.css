@@ -39,3 +39,26 @@
 .message-group-blocked {
     display: none;
 }
+
+
+/*Magane Theme*/
+ 
+.vb>.vb-dragger>.vb-dragger-styler,
+.vb.vb-scrolling-phantom>.vb-dragger>.vb-dragger-styler,
+.vb.vb-dragging-phantom>.vb-dragger>.vb-dragger-styler {
+    background-color: var(--main-color) !important;
+}
+ 
+div#magane div.stickerWindow[data-v-f057252c] {
+    background-color: rgba(0,0,0,0.55) !important;
+    border-radius: 8px;
+}
+ 
+div#magane div.stickerWindow>div.packs[data-v-f057252c] {
+    background-color: rgba(0,0,0,0.5) !important;
+}
+ 
+div#magane div.stickersModal .modal-content[data-v-f057252c] {
+    background-color: rgba(0,0,0,0.7) !important;
+    border-radius: 8px;
+}
