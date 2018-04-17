@@ -1,0 +1,41 @@
+/*Theme Fixes*/
+ 
+.scrollerThemed-19vinI.themeLight-1WK0Av.scrollerTrack-3hhmU0>.scroller-fzNley::-webkit-scrollbar-track,
+.theme-dark .scrollerThemed-19vinI.themeLight-1WK0Av.scrollerTrack-3hhmU0>.scroller-fzNley::-webkit-scrollbar-track, 
+.theme-light .scrollerWrap-2uBjct.scrollerTrack-3hhmU0>.scroller-fzNley::-webkit-scrollbar-track {
+ background-color: transparent !important;
+}
+ 
+.theme-dark .embedInner-t4ag7g {
+    background-color: rgba(34,34,34,.2);
+    border-color: rgb(70,70,70);
+    border-left: none;
+}
+ 
+ 
+.embedPill-3sYS1X {
+    background-color: var(--main-color) !important;
+}
+ 
+.emojiItem-3l4Fa9.selected-1LQfcZ {
+    background-color: var(--hover-color) !important;
+}
+ 
+.emoji {
+    margin: 0 !important
+}
+ 
+.membersGroup-3_dP5E {
+    color: var(--main-color) !important;
+    background: rgba(0,0,0,.5);
+    text-align: center;
+    padding: 0px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    height: inherit;
+    font-weight: bold;
+}
+ 
+.message-group-blocked {
+    display: none;
+}
