@@ -24,6 +24,14 @@
 .theme-dark .member-3W1lQa:hover .content-OzHfo4 {
 	background: rgba(0,0,0,0.3)!important;
 }
+
+.emojiPicker-3m1S-j .stickyHeader-1SS0JU {
+	background: transparent;
+}
+
+.emojiPicker-3m1S-j {
+	background: rgba(0,0,0,.3);
+}
  
 .theme-dark .embedInner-t4ag7g {
     background-color: rgba(34,34,34,.2);
