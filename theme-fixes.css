@@ -10,6 +10,8 @@
     background-color: transparent !important;
 }
 
+/*Emoji box*/
+
 .emojiPicker-3m1S-j .stickyHeader-1SS0JU {
 	background: transparent;
 }
@@ -18,8 +20,27 @@
 	background: rgba(0,0,0,.3);
 }
 
-.contentSelectedText-3wUhMi, .unread-1Dp-OI {
-    background-color: var(--main-color);
+.emojiItem-109bjA .selected-39BZ4S {
+    background-color: var(--hover-color) !important;
+}
+
+.emojiPicker-3m1S-j .scroller-3vODG7 .emojiItem-109bjA.selected-39BZ4S
+	background-color: var(--main-color);
+}
+
+/*------*/
+
+.lookInverted-2D7oAl.colorBrand-3pXr91 {
+	background-color: #43b581;
+	color: #fff;
+}
+
+.lookInverted-2D7oAl.colorBrand-3pXr91 {
+	background-color: #3ca374;
+}
+
+.topSectionPlaying-1J5E4n {
+	background-color: rgba(0, 0, 0, 0.65);
 }
 
 .theme-dark .menu-Sp6bN1 { /*Server settings*/
@@ -59,10 +80,6 @@
  
 .embedPill-1Zntps {
     background-color: var(--main-color) !important;
-}
- 
-.emojiItem-3l4Fa9.selected-1LQfcZ {
-    background-color: var(--hover-color) !important;
 }
  
 .emoji {
@@ -110,3 +127,18 @@ div#magane div.stickersModal .modal-content[data-v-f057252c] {
     background-color: rgba(0,0,0,0.7) !important;
     border-radius: 8px;
 }
+
+div#magane a.button[data-v-f057252c] {
+	background-color: #7289da;
+}
+
+div#magane a.button.is-primary[data-v-f057252c]:hover, div#magane a.button[data-v-f057252c]:hover {
+	background-color: #677bc4;
+}
+
+div#magane a.button.is-danger[data-v-f057252c] {
+	background-color: #f04747;
+}
+
+div#magane a.button.is-danger[data-v-f057252c]:hover {
+	
