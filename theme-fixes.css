@@ -1,8 +1,7 @@
 /*Theme Fixes*/
  
 .container-2lgZY8, /*base*/
-.container-PNkimc, /*channels*/
-.container-2Thooq, /*user*/
+.channels-Ie2l6A, /*channels*/
 .theme-dark .members-1998pB, /*member list*/
 .theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ, /*server list and messages*/
 .typing-2GQL18 {
@@ -21,6 +20,17 @@
     background-color: var(--main-color);
 }
 
+.theme-dark .menu-Sp6bN1 { /*Server settings*/
+	background: rgba(0,0,0,.85);
+}
+
+.theme-dark .item-1GzJrl:hover {
+	background-color: rgba(20,20,20,.7);
+}
+
+.theme-dark .body-3ND3kc { /*Userinfo*/
+    background-color: rgba(0, 0, 0, 0.65);
+	
 .theme-dark .quickMessage-1yeL4E {
 	background-color: transparent;
 }
