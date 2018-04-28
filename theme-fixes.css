@@ -1,7 +1,12 @@
 /*Theme Fixes*/
  
 .container-2lgZY8, /*The base of the theme*/
- {
+.container-PNkimc, /*channels*/
+.container-2Thooq, /*user*/
+.theme-dark .members-1998pB, /*Memberlist*/
+.theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ, /*Server list and chat messages*/
+.typing-2GQL18,
+.channels-Ie2l6A {
     background-color: transparent !important;
 }
 
