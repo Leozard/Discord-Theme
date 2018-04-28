@@ -9,8 +9,12 @@ typing-2GQL18 {
     background-color: transparent;
 }
 
-.theme-dark .member-3W1lQa:hover .content-OzHfo4 {
-    background-color: var(--hover-color);
+.contentSelectedText-3wUhMi, .unread-1Dp-OI {
+    background-color: var(--main-color);
+}
+
+contentHoveredText-2D9B-x {
+	background-color: rgba(0,0,0,0.3)
 }
  
 .theme-dark .embedInner-t4ag7g {
