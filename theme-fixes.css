@@ -1,9 +1,11 @@
 /*Theme Fixes*/
  
-.scrollerThemed-19vinI.themeLight-1WK0Av.scrollerTrack-3hhmU0>.scroller-fzNley::-webkit-scrollbar-track,
-.theme-dark .scrollerThemed-19vinI.themeLight-1WK0Av.scrollerTrack-3hhmU0>.scroller-fzNley::-webkit-scrollbar-track, 
-.theme-light .scrollerWrap-2uBjct.scrollerTrack-3hhmU0>.scroller-fzNley::-webkit-scrollbar-track {
- background-color: transparent !important;
+.container-2lgZY8, .container-PNkimc, .container-2Thooq, .theme-dark .members-1998pB {
+    background-color: transparent;
+}
+
+.theme-dark .member-3W1lQa:hover .content-OzHfo4 {
+    background-color: var(--hover-color);
 }
  
 .theme-dark .embedInner-t4ag7g {
