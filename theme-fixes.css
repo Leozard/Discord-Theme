@@ -35,7 +35,7 @@
 	color: #fff;
 }
 
-.lookInverted-2D7oAl.colorBrand-3pXr91 {
+.lookInverted-2D7oAl.colorBrand-3pXr91:hover {
 	background-color: #3ca374;
 }
 
@@ -105,6 +105,10 @@
 	color: var(--main-color);
 }
 
+.theme-dark .footer-2yfCgX {
+	background-color: transparent;
+}
+
 
 /*Magane Theme*/
  
@@ -129,16 +133,16 @@ div#magane div.stickersModal .modal-content[data-v-f057252c] {
 }
 
 div#magane a.button[data-v-f057252c] {
-	background-color: #7289da;
+	background-color: #7289da !important;
 }
 
 div#magane a.button.is-primary[data-v-f057252c]:hover, div#magane a.button[data-v-f057252c]:hover {
-	background-color: #677bc4;
+	background-color: #677bc4 !important;
 }
 
 div#magane a.button.is-danger[data-v-f057252c] {
-	background-color: #f04747;
+	background-color: #f04747!important;
 }
 
 div#magane a.button.is-danger[data-v-f057252c]:hover {
-	
+}
