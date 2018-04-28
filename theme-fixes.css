@@ -1,12 +1,20 @@
 /*Theme Fixes*/
  
-.container-2lgZY8,
-.container-PNkimc, 
-.container-2Thooq, 
-.theme-dark .members-1998pB, 
-.theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ,
+.container-2lgZY8, /*base*/
+.container-PNkimc, /*channels*/
+.container-2Thooq, /*user*/
+.theme-dark .members-1998pB, /*member list*/
+.theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ, /*server list and messages*/
 .typing-2GQL18 {
     background-color: transparent !important;
+}
+
+.emojiPicker-3m1S-j .stickyHeader-1SS0JU {
+	background: transparent;
+}
+
+.emojiPicker-3m1S-j {
+	background: rgba(0,0,0,.3);
 }
 
 .contentSelectedText-3wUhMi, .unread-1Dp-OI {
@@ -25,12 +33,8 @@
 	background: rgba(0,0,0,0.3)!important;
 }
 
-.emojiPicker-3m1S-j .stickyHeader-1SS0JU {
-	background: transparent;
-}
-
-.emojiPicker-3m1S-j {
-	background: rgba(0,0,0,.3);
+.channels-Ie2l6A {
+    background: transparent;
 }
  
 .theme-dark .embedInner-1-fpTo {
