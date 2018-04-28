@@ -13,8 +13,8 @@
     background-color: var(--main-color);
 }
 
-.contentHoveredText-2D9B-x {
-	background-color: rgba(0,0,0,0.7) !important;
+.theme-dark .quickMessage-1yeL4E {
+	background-color: transparent;
 }
 
 .contextMenu-HLZMG {
@@ -22,7 +22,7 @@
 }
 
 .theme-dark .member-3W1lQa:hover .content-OzHfo4 {
-	background: rgba(0,0,0,0.7)!important;
+	background: rgba(0,0,0,0.3)!important;
 }
  
 .theme-dark .embedInner-t4ag7g {
