@@ -2,7 +2,7 @@
    
  
 /* "Status Circles v1.7" by Zerthox */
-.theme-dark .status-2Devx1,
+.theme-dark .status-2s6iDp,
 .private-channels .avatar-small .status,
 .account .avatar-small .status {
     width: 100% !important;
@@ -13,17 +13,17 @@
     left: -2px;
     box-shadow: 0 0 1px #000 inset;
 }
-.theme-dark .statusOnline-1Mp2_H,
+.theme-dark .statusOnline-1FlpW_,
 .private-channels  .avatar-small .status-online,
 .account .avatar-small .status-online {
     border: 2px solid #43b581 !important;
 }
-.theme-dark .statusIdle-2AQdvu,
+.theme-dark .statusIdle-1XoSCz,
 .private-channels  .avatar-small .status-idle,
 .account .avatar-small .status-idle {
     border: 2px solid #faa61a !important;
 }
-.theme-dark .statusDnd-35xAXU,
+.theme-dark .statusDnd-2DDKST,
 .private-channels  .avatar-small .status-dnd,
 .account .avatar-small .status-dnd {
     border: 2px solid #f04747 !important;
@@ -51,7 +51,7 @@
     top: 1px;
 }
  
-.mask-2vyqAW {
+.mask-3OgeRz {
     -webkit-mask: none;
     mask: none;
 }
