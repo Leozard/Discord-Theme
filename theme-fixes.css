@@ -86,6 +86,14 @@ button.actionButton-3W1xZa.button-38aScr.lookInverted-2D7oAl.colorBrand-3pXr91.s
     margin: 0 !important
 }
 
+.container-2Thooq::after {
+  content: "";
+}
+
+container-1UB9sr {
+	background-color: transparent;
+}
+
 .membersGroup-v9BXpm {
     color: var(--main-color) !important;
     background: rgba(0,0,0,.5);
