@@ -1,13 +1,5 @@
-/*Theme Fixes*/
- 
-.container-2lgZY8, /*base*/
-.channels-Ie2l6A, /*channels*/
-.container-PNkimc,
-.container-2Thooq,
-.theme-dark .members-1998pB, /*member list*/
-.theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ, /*server list and messages*/
-.typing-2GQL18 {
-    background-color: transparent !important;
+[class*="theme-"] .member-3W1lQa.popout-open .content-OzHfo4 {
+	background-color: rgba(0,0,0,.8)
 }
 
 /*Emoji box*/
@@ -109,8 +101,8 @@ container-1UB9sr {
     display: none;
 }
 
-.activityText-sLG0UL {
-	color: var(--main-color);
+[class*="theme-"] .member-3W1lQa.popout-open .content-OzHfo4 .activity-1IYsbk strong {
+	color: var(--main-color) !important;
 }
 
 .theme-dark .footer-2yfCgX {
