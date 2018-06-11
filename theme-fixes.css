@@ -86,10 +86,6 @@ button.actionButton-3W1xZa.button-38aScr.lookInverted-2D7oAl.colorBrand-3pXr91.s
   content: "";
 }
 
-container-1UB9sr {
-	background-color: transparent;
-}
-
 .membersGroup-v9BXpm {
     color: var(--main-color) !important;
     background: rgba(0,0,0,.5);
@@ -99,6 +95,10 @@ container-1UB9sr {
     margin-bottom: 10px;
     height: inherit;
     font-weight: bold;
+}
+
+.membersGroup-v9BXpm:nth-child(2) {
+	margin-top: 0px;
 }
  
 .message-group-blocked {
