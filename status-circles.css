@@ -13,17 +13,17 @@
     left: -2px;
     box-shadow: 0 0 1px #000 inset;
 }
-.theme-dark .statusOnline-1FlpW_,
+.theme-dark .online-2S838R,
 .private-channels  .avatar-small .status-online,
 .account .avatar-small .status-online {
     border: 2px solid #43b581 !important;
 }
-.theme-dark .statusIdle-1XoSCz,
+.theme-dark .idle-3DEnRT,
 .private-channels  .avatar-small .status-idle,
 .account .avatar-small .status-idle {
     border: 2px solid #faa61a !important;
 }
-.theme-dark .statusDnd-2DDKST,
+.theme-dark .dnd-1_xrcq,
 .private-channels  .avatar-small .status-dnd,
 .account .avatar-small .status-dnd {
     border: 2px solid #f04747 !important;
@@ -34,7 +34,7 @@
 .avatarOffline-YdYOwX {
     border: 2px solid #643da7 !important;
 }
-.theme-dark .statusInvisible-2ci18Q,
+.theme-dark .invisible-1kp8Z0 ,
 .private-channels  .avatar-small .status-invisible,
 .account .avatar-small .status-invisible {
     border: 2px solid #747f8d !important;
