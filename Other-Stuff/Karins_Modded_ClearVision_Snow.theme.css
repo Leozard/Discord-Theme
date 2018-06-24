@@ -1,0 +1,25 @@
+//META{"name":"Karin's_Modded_ClearVision_Snow","description":"ClearVision_Sapphire with custom colors and backgrounds modded by Karin","author":"Zerthox/Karin:Modded","version":"5"}*//{}
+@import url(https://zerthox.github.io/ClearVision/css/ClearVision_v5.min.css);
+@import url(https://zerthox.github.io/ClearVision/mods/CleanStatusPicker.css;
+@import url(https://zerthox.github.io/ClearVision/mods/SmoothBackgrounds.css);
+@import url(https://zerthox.github.io/ClearVision/mods/ContrastImprovements.css);
+
+:root {
+	--main-color: #2780e6;
+	--hover-color: #1e63b3;
+    --background-blur: 0px;
+    --background-brightness: 100%;
+}
+
+body::after,
+.callout-backdrop,
+.userPopout-4pfA0d::before,
+.root-2sNHUF::before,
+#pubs-container::before,
+.auth-background,
+.auth-tiling-bg,
+.invite-modal .invite-splash,
+.radio-theme.light label,
+.radio-theme.dark label {
+    background-image: url(https://cdn.discordapp.com/attachments/411804119746215936/459270239641665537/new_BD_bg1366x768.png)
+}
