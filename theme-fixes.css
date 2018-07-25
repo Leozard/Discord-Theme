@@ -77,10 +77,7 @@ button.actionButton-3W1xZa.button-38aScr.lookInverted-2D7oAl.colorBrand-3pXr91.s
 .embedPill-1Zntps {
     background-color: var(--main-color) !important;
 }
- 
-.emoji {
-    margin: 0 !important
-}
+
 
 .container-2Thooq::after {
   content: "";
