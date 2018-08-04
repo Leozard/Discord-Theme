@@ -1,9 +1,9 @@
 .container-2lgZY8, .container-PNkimc, .theme-dark .members-1998pB, .theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ,  {
-	background-color: transparent;
+	background-color: transparent !important;
 }
 
 .theme-dark .inner-zqa7da {
-	background-color:rgba(0, 0, 0, 0.7);
+	background-color:rgba(0, 0, 0, 0.7) !important;
 }
 
 [class*="theme-"] .member-3W1lQa.popout-open .content-OzHfo4 {
@@ -11,7 +11,7 @@
 }
 
 .role-2irmRk {
-	border-radius: 7px;
+	border-radius: 7px !important;
 }
 
 /*Emoji box*/
@@ -69,7 +69,7 @@ button.actionButton-3W1xZa.button-38aScr.lookInverted-2D7oAl.colorBrand-3pXr91.s
 
 .theme-dark .member-3W1lQa:hover .content-OzHfo4 {
 	background: rgba(0,0,0,0.3)!important;
-
+}
  
 .theme-dark .embedInner-1-fpTo {
     background-color: rgba(34,34,34,.2);
