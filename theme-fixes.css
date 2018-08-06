@@ -94,9 +94,8 @@ button.actionButton-3W1xZa.button-38aScr.lookInverted-2D7oAl.colorBrand-3pXr91.s
 	margin-top: 0px;
 }
  
-.message-group-blocked {
-    display: none;
-}
+.messageGroupBlocked-3wrQQX , .messageGroupBlockedBtn-1PBBh-{
+display:none}
 
 [class*="theme-"] .member-3W1lQa.popout-open .content-OzHfo4 .activity-1IYsbk strong {
 	color: var(--main-color) !important;
