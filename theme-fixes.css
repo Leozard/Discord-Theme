@@ -11,58 +11,7 @@
 	border-radius: 7px !important;
 }
 
-/*Emoji box*/
-
-.emojiPicker-3m1S-j .stickyHeader-1SS0JU {
-	background: transparent;
-}
-
-.emojiPicker-3m1S-j {
-	background: rgba(0,0,0,.3);
-}
-
-.emojiItem-109bjA .selected-39BZ4S {
-    background-color: var(--hover-color) !important;
-}
-
-.emojiPicker-3m1S-j .scroller-3vODG7 .emojiItem-109bjA.selected-39BZ4S
-	background-color: var(--main-color);
-}
-
 /*------*/
-
-button.actionButton-3W1xZa.button-38aScr.lookInverted-2D7oAl.colorBrand-3pXr91.sizeSmall-2cSMqn.grow-q77ONN {
-	background-color: #43b581;
-	color: #fff;
-}
-
-.lookInverted-2D7oAl.colorBrand-3pXr91:hover {
-	background-color: #3ca374;
-}
-
-.topSectionPlaying-1J5E4n {
-	background-color: rgba(0, 0, 0, 0.65);
-}
-
-.theme-dark .menu-Sp6bN1 { /*Server settings*/
-	background: rgba(0,0,0,.85);
-}
-
-.theme-dark .item-1GzJrl:hover {
-	background-color: rgba(20,20,20,.7);
-}
-
-.theme-dark .body-3ND3kc { /*Userinfo*/
-    background-color: rgba(0, 0, 0, 0.65);
-}
-	
-.theme-dark .quickMessage-1yeL4E {
-	background-color: transparent;
-}
-
-.contextMenu-HLZMG {
-	background: rgba(0,0,0,0.7)!important;
-}
 
 .theme-dark .member-3W1lQa:hover .content-OzHfo4 {
 	background: rgba(0,0,0,0.3)!important;
@@ -72,8 +21,7 @@ button.actionButton-3W1xZa.button-38aScr.lookInverted-2D7oAl.colorBrand-3pXr91.s
     background-color: rgba(34,34,34,.2);
     border-color: rgb(70,70,70);
     border-left: none;
-}
- 
+} 
  
 .embedPill-1Zntps {
     background-color: var(--main-color) !important;
@@ -88,6 +36,7 @@ button.actionButton-3W1xZa.button-38aScr.lookInverted-2D7oAl.colorBrand-3pXr91.s
     margin-bottom: 10px;
     height: inherit;
     font-weight: bold;
+	border-radius: 3px
 }
 
 .membersGroup-v9BXpm:nth-child(2) {
@@ -95,16 +44,8 @@ button.actionButton-3W1xZa.button-38aScr.lookInverted-2D7oAl.colorBrand-3pXr91.s
 }
  
 .messageGroupBlocked-3wrQQX , .messageGroupBlockedBtn-1PBBh-{
-display:none}
-
-[class*="theme-"] .member-3W1lQa.popout-open .content-OzHfo4 .activity-1IYsbk strong {
-	color: var(--main-color) !important;
-}
-
-.theme-dark .footer-2yfCgX {
-	background-color: transparent;
-}
-
+	display:none
+}	
 
 /*Magane Theme*/
  
