@@ -1,14 +1,41 @@
-.container-2lgZY8, .container-PNkimc, .theme-dark .members-1998pB, .theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ,
-.theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3, .theme-dark .messagesWrapper-3lZDfY  {
-	background-color: transparent !important;
-}
-
-[class*="theme-"] .member-3W1lQa.popout-open .content-OzHfo4 {
-	background-color: rgba(0,0,0,.7)
-}
+/*User roles*/
 
 .role-2irmRk {
 	border-radius: 7px !important;
+}
+
+/*Channel group styles*/
+
+.nameCollapsed-34uFWo, .nameDefault-2DI02H, .nameHovered-1gxhWH, .nameHoveredCollapsed-2orEWB, .nameMuted-1MCOt4, .nameUnread-njOjIS {
+	display: flex;
+	text-align: center;
+}
+
+.nameCollapsed-34uFWo::before, .nameDefault-2DI02H::before, .nameHovered-1gxhWH::before, .nameHoveredCollapsed-2orEWB::before, .nameMuted-1MCOt4::before, .nameUnread-njOjIS::before
+	flex: 1;
+    height: 1px;
+    background: white;
+    content: "";
+    position: relative;
+    margin-right: 10px;
+    top: 10px;
+    opacity: .4;
+}
+
+.nameCollapsed-34uFWo::after, .nameDefault-2DI02H::after, .nameHovered-1gxhWH::after, .nameHoveredCollapsed-2orEWB::after, .nameMuted-1MCOt4::after, .nameUnread-njOjIS::after {
+	flex: 1;
+    height: 1px;
+    background: white;
+    content: "";
+    position: relative;
+    margin-left: 10px;
+    top: 10px;
+    opacity: .4;
+}
+
+.nameHovered-1gxhWH::before, .nameHoveredCollapsed-2orEWB::before,
+.nameHovered-1gxhWH::after, .nameHoveredCollapsed-2orEWB::after {
+	opacity: .5 !important;
 }
 
 /*------*/
