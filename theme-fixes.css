@@ -74,7 +74,12 @@
  
 .messageGroupBlocked-3wrQQX , .messageGroupBlockedBtn-1PBBh-{
 	display:none
-}	
+}
+
+.emoji {
+	height: 2rem;
+	width: 2rem;
+}
 
 /*Magane Theme*/
  
