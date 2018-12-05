@@ -20,8 +20,7 @@
 .nameCollapsed-34uFWo:after, .nameDefault-2DI02H:after, .nameHovered-1gxhWH:after, .nameHoveredCollapsed-2orEWB:after, .nameMuted-1MCOt4:after, .nameUnread-njOjIS:after {
 	flex: 1;
     height: 1px;
-    background: white;
-	opacity: .4;
+    background: #72767d;
     content: "";
     position: relative;
     margin-right: 10px;
@@ -38,7 +37,7 @@
 
 .nameHovered-1gxhWH:before, .nameHoveredCollapsed-2orEWB:before,
 .nameHovered-1gxhWH:after, .nameHoveredCollapsed-2orEWB:after {
-	opacaity: .6;
+	background-color: #b9bbbe !important;
 }
 
 /*------*/
