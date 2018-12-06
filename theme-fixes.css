@@ -34,7 +34,6 @@
     background: #72767d;
     content: "";
     position: relative;
-    margin-right: 10px;
     top: 10px;
 }
 
@@ -55,6 +54,10 @@
 
 a:link {
 	color: var(--main-color) !important;
+}
+
+.winButton-iRh8-Z {
+	width: 38px;
 }
 
 .theme-dark .member-3W1lQa:hover .content-OzHfo4 {
