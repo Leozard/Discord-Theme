@@ -4,6 +4,17 @@
 	border-radius: 7px !important;
 }
 
+/* New Message*/
+
+.theme-dark .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI {
+	color: var(--main-color);
+}
+
+.theme-dark .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI:after,
+.theme-dark .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI:before {
+	border-color: var(--main-color);
+}
+
 /*Channel group styles*/
 
 .containerDefault-3GGEv_ {
@@ -41,6 +52,10 @@
 }
 
 /*------*/
+
+a:link {
+	color: var(--main-color) !important;
+}
 
 .theme-dark .member-3W1lQa:hover .content-OzHfo4 {
 	background: rgba(0,0,0,0.3)!important;
