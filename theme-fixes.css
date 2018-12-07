@@ -135,3 +135,9 @@ div#magane a.button.is-danger[data-v-f057252c] {
 
 div#magane a.button.is-danger[data-v-f057252c]:hover {
 }
+
+div.channel-textarea-stickers[data-v-f057252c] {
+	background-image:  url("/assets/a42df564f00ed8bbca652dc9345d3834.svg");
+	background-size: initial;
+	background-position: initial;
+}
