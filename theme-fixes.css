@@ -71,6 +71,46 @@
 	background-color: #b9bbbe !important;
 }
 
+/* Games Library */
+
+.theme-dark .header-39GIC8 {
+    background-color: rgba(0,0,0,.3);
+}
+
+.theme-dark .gameUpdates-2GPqBU {
+	background-color: rgba(0,0,0,.3);
+}
+
+.progressBar-3zryPV.small-4dgL9e:nth-child(2) {
+	background-color: var(--main-color);
+}
+
+.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:active, .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:hover {
+	background-color: var(--hover-color);
+}
+
+.theme-dark .lookFilled-1Gx00P.hoverGreen-1gjdJc.hasHover-3X1-zV:hover {
+	background-color: var(--hover-color);
+}
+
+/* Install Game */
+
+.theme-dark .checked-3_4uQ9 {
+    background-color: transparent !important;
+    border-color: var(--main-color) !important;
+}
+
+button.button-38aScr.lookFilled-1Gx00P.colorGreen-29iAKY.sizeMedium-1AC_Sl.grow-q77ONN {
+    background-color: var(--main-color) !important;
+}
+
+button.button-38aScr.lookFilled-1Gx00P.colorGreen-29iAKY.sizeMedium-1AC_Sl.grow-q77ONN:hover {
+    background-color: var(--hover-color) !important;
+}
+
+.theme-dark .installSize-1eXbBX {
+    background-color: var(--main-color);
+
 /*------*/
 
 .accountDetails-3k9g4n:after {
