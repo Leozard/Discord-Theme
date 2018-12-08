@@ -1,7 +1,7 @@
 /*User roles*/
 
 .role-2irmRk {
-	border-radius: 7px !important;
+    border-radius: 6px !important;
 }
 
 /* New Message*/
@@ -13,6 +13,27 @@
 .theme-dark .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI:after,
 .theme-dark .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI:before {
 	border-color: var(--main-color);
+}
+
+/* Server Emoji */
+
+.theme-dark .card-FDVird {
+    background-color: transparent !important;
+}
+
+.theme-dark .input-cIJ7To {
+    margin-top: 1px;
+    margin-left: -1px;
+}
+
+/* Manage Message */
+
+.theme-dark .container-3cGP6G {
+    background: rgba(0,0,0,.65);
+}
+
+.theme-dark .item-2J1YMK:active, .theme-dark .item-2J1YMK:hover {
+    background-color: var(--hover-color);
 }
 
 /*Channel group styles*/
@@ -29,7 +50,7 @@
 
 .nameCollapsed-34uFWo:before, .nameDefault-2DI02H:before, .nameHovered-1gxhWH:before, .nameHoveredCollapsed-2orEWB:before, .nameMuted-1MCOt4:before, .nameUnread-njOjIS:before,
 .nameCollapsed-34uFWo:after, .nameDefault-2DI02H:after, .nameHovered-1gxhWH:after, .nameHoveredCollapsed-2orEWB:after, .nameMuted-1MCOt4:after, .nameUnread-njOjIS:after {
-	flex: 1;
+    flex: 1;
     height: 1px;
     background: #72767d;
     content: "";
@@ -52,7 +73,15 @@
 
 /*------*/
 
-a:link {
+.accountDetails-3k9g4n:after {
+    display: none;
+}
+
+.root-3-B5F3:before {
+    display: none; 
+}
+
+a:link , .theme-dark .embedTitleLink-1Zla9e {
 	color: var(--main-color) !important;
 }
 
@@ -83,7 +112,7 @@ a:link {
     margin-bottom: 10px;
     height: inherit;
     font-weight: bold;
-	border-radius: 3px
+    border-radius: 3px;
 }
 
 .membersGroup-v9BXpm:nth-child(2) {
