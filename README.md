@@ -2,6 +2,6 @@
 
 <ul>
   <li>Kurumi</li>
-  <li>Theme></li>
+  <li>Theme</li>
 </ul>
   
