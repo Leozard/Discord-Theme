@@ -112,6 +112,27 @@ button.button-38aScr.lookFilled-1Gx00P.colorGreen-29iAKY.sizeMedium-1AC_Sl.grow-
     background-color: var(--main-color);
 }
 
+/* User Popout */
+
+[class*="userPopout-"] [class*="headerNormal-"] {
+    background: rgba(0,0,0,.3) !important;
+}
+
+.headerXbox-3G-4PF {
+    background: rgba(16,124,16,.7);
+}
+
+.headerStreaming-2FjmGz {
+    background: rgba(89, 54, 149, .7) !important;
+}
+
+[class*="headerPlaying-"] {
+    background: rgba(0,0,0,.3) !important;
+}
+
+.activity-11LB_k {
+    background-color: rgba(0, 0, 0, 0.50) !important;
+}
 /*------*/
 
 .accountDetails-3k9g4n:after {
@@ -167,6 +188,10 @@ a:link , .theme-dark .embedTitleLink-1Zla9e {
 .emoji {
 	height: 2rem;
 	width: 2rem;
+}
+
+.guildSeparator-1X4GQ1 {
+    visibility: hidden;
 }
 
 /*Magane Theme*/
