@@ -29,11 +29,10 @@
 .account .avatar-small .status-dnd {
     border: 2px solid #f04747 !important;
 }
-.theme-dark .statusStreaming-1bZ3Hq,
-.private-channels .avatar-small .status-streaming,
-.account .avatar-small .status-streaming,
-.avatarOffline-YdYOwX {
-    border: 2px solid #643da7 !important;
+.theme-dark .streaming-2_dnHe,
+.private-channels .avatar-small streaming-2_dnHe,
+.account .avatar-small streaming-2_dnHe {
+    border: 2px solid #593695 !important;
 }
 .theme-dark .invisible-1kp8Z0 ,
 .private-channels  .avatar-small .status-invisible,
