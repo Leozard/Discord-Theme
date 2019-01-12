@@ -50,7 +50,7 @@ body::after,
     background-image: url(https://lolisafe.moe/ag2GxQSR.png) !important; /* IMPORTANT: Link must be HTTPS! */
 }
 
-[class*=userPopout-]::before {
+[class*=userPopout-] {
 	background-image: url(https://lolisafe.moe/HN2xoXeo.jpg) !important;
 	background-size: cover;
 	background-position: center;
