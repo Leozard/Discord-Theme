@@ -4,7 +4,7 @@
  
 /* IMPORT CSS FROM GITHUB */
 @import url(https://zerthox.github.io/ClearVision/css/ClearVision_v5.min.css);
-@import url(https://gitcdn.xyz/cdn/Zerthox/ClearVision/master/mods/SmoothBackgrounds.css);
+@import url(https://zerthox.github.io/ClearVision/mods/SmoothBackgrounds.css);
  
 /*
 ---------------------------------------------------------------------------------------------------------------------------------------------
@@ -40,7 +40,6 @@ Changelog: https://git.io/v6r5N
 */
 body::after,
 .callout-backdrop,
-[class*=userPopout-]::before,
 [class*="root-"]::before,
 #pubs-container::before,
 .auth-background,
@@ -49,4 +48,10 @@ body::after,
 .radio-theme.light label,
 .radio-theme.dark label {
     background-image: url(https://lolisafe.moe/ag2GxQSR.png) !important; /* IMPORTANT: Link must be HTTPS! */
+}
+
+[class*=userPopout-]::before {
+	background-image: url(https://lolisafe.moe/HN2xoXeo.jpg) !important;
+	background-size: cover;
+	background-position: center;
 }
